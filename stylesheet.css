@@ -1,12 +1,12 @@
 
 .navlinks{
-    border:1px solid #d72323;
-    border-width:1px 0;
+    	border:1px solid #d72323;
+    	border-width:1px 0;
 	background-color: #3a4750;
-    list-style:none;
-    margin:0;
-    padding:0;
-    text-align:center;
+    	list-style:none;
+    	margin:0;
+    	padding:0;
+    	text-align:center;
 }
 
 .navlinks a:hover {
@@ -15,12 +15,12 @@
 }
 
 .navlinks li{
-    display:inline;
+    	display:inline;
 	top: 0;
-    width: 100%;
+    	width: 100%;
 }
 .navlinks a{
-    display:inline-block;
+    	display:inline-block;
 	font-size: 2em;
 	padding: 15px 3%;
 	text-align: center;
@@ -55,12 +55,12 @@ body{
 }
 
 .gallery {
-  border: 1px solid #ccc;
+  	text-align: center;
 }
+
 
 .gallery img {
-  width: 100%;
-  height: auto;
+  	width: 60%;
+  	height: auto;
 }
-
 
