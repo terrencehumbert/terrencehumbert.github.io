@@ -53,3 +53,7 @@ body{
 	background-color:#303841;
 	color:#eeeeee;
 }
+
+gallery {
+  border: 1px solid #ccc;
+}
