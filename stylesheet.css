@@ -54,6 +54,13 @@ body{
 	color:#eeeeee;
 }
 
-gallery {
+.gallery {
   border: 1px solid #ccc;
 }
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+
