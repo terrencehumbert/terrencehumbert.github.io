@@ -6,6 +6,15 @@ h1 {
   text-decoration: underline;
 }
 
+#navlinks {
+  text-align: center;
+  font-size: 1em;
+  color: #d72323;
+  margin-bottom: .3em;
+  text-decoration: underline;
+}
+
+
 table {
   margin: .3em;
   width: 290px;
